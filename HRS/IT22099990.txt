@@ -1,0 +1,26 @@
+Name : RUPASINGHE R.A.R.P
+Student ID : IT22099990
+Batch Group : Y2.S1.WD.IT.12.02
+Project Group : SE/OOP/2023/S2/MLB/WD/G207
+Contribution :
+Customer Support 
+	issues.jsp
+	IssueInsert.jsp
+	validitychk.jsp
+	updateIssues.jsp
+	deleteIssues.jsp
+	success.jsp
+	unsuccess.jsp
+	DBconnect.java
+	CustomercareServlet.java
+	IssueDBUtil.java
+	IssueInsert.java
+	Issues.java
+	UpdateIssueServlet.java
+	DeleteIssueServlet.java
+	web.xml
+
+Staff Login
+	Slogin.jsp
+	LoginServlet.java
+	StaffDBUtil.java
